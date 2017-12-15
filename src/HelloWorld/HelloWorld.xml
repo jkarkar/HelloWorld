@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="HelloWorld.widget.HelloWorld" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>HelloWorld</name>
+    <description>The description of this widget.</description>
+
+    <icon />
+
+    <properties>
+        <property key="dummyKey" type="string" required="false" defaultValue="">
+            <caption>String</caption>
+            <category>Input</category>
+            <description>This is a description!</description>
+        </property>
+    </properties>
+</widget>
